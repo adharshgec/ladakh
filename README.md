@@ -22,7 +22,7 @@
 - Scarf
 - Sunscreen
 - Face Wash
-- Sunglasses
+- UV Sunglasses
 - Shoes/Boots - **Done**
 - Umbrella
 - Knife
