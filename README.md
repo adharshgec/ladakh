@@ -10,6 +10,9 @@
 - Light Travel Bag
 - Saddle Bags
 - Tank Bags
+- Rain Covers
+- Riding Jacket
+- Helmet
 - Gloves
 - Kneepads
 - Seat Cushion
@@ -19,6 +22,8 @@
 - Jerry Cans
 - Nylon/Polyester Clothing
 - Jeans/Cargoes
+- Sandals
+- 6x Socks
 - Thermals
 - Scarf
 - Sunscreen
@@ -26,6 +31,9 @@
 - UV Sunglasses
 - Shoes/Boots - **Done**
 - Umbrella
+- Snickers
+- Dry Fruits
+- Water Bottles
 - Knife
 - First Aid Kit
 - Medicines
@@ -36,9 +44,19 @@
 - Soap - **Done**
 - Spray - **Done**
 
+### Medicines
+
+- Diamox Tablets
+- Headache Meds
+- Vomitting Meds
+- Diarrea Meds
+- Balm
+
 ### Motorcycle Mods
 
 - Tyres (Pirelli Scorpion Rally STR)
+- Bolt Charger
+- Mobile Holder
 - Saddle Stay
 - Frame Slider
 - Fork Slider
@@ -69,6 +87,7 @@
 - GoPro Lenses/Filters
 - GoPro Batteries
 - GoPro Waterproof Casing
+- 2x Mobiles
 - DSLR
 - Tripod
 - Headset
@@ -77,6 +96,7 @@
 - Hard Disk
 - Power Banks
 - Extension Cable - **Done**
+- Multipin Power Socket
 - Flashlight
 
 ### Documents and other Necessities
@@ -87,7 +107,12 @@
 - Pollution Certificate - **Done**
 - Original License - **Done**
 - Original Aadhar - **Done**
+- Photostat Copies of Above all
 - 10 Passport Size Photos - **Done**
+- Airtel Postpaid Sim Card
+- Important No: of 2 Person in Paper
+- Permits From Leh
+- Copy Of Permits
 
 
 ## Route Maps
