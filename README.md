@@ -86,3 +86,8 @@
 - 10 Passport Size Photos - **Done**
 
 ## The Plan
+
+    To Do
+
+## References and Guides
+[Gear Up](https://www.horizonsunlimited.com/gear-up)
