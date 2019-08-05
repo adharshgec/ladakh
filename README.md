@@ -13,6 +13,7 @@
 - Gloves
 - Kneepads
 - Seat Cushion
+- Bluetooth Intercom
 - Helmet Lock Cable
 - Bungee Cords
 - Jerry Cans
@@ -69,6 +70,7 @@
 - GoPro Batteries
 - GoPro Waterproof Casing
 - DSLR
+- Tripod
 - Headset
 - Laptop
 - SD Cards
