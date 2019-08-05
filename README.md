@@ -1,5 +1,7 @@
 # Ladakh - The Trip
 
+![Ladakh - The Trip](https://ibb.co/0syKmjL "Ladakh - The Trip")
+
 ## The Necessities
 
 ### Accessories
