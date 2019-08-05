@@ -1,6 +1,6 @@
 # Ladakh - The Trip
 
-![Ladakh - The Trip](https://ibb.co/0syKmjL "Ladakh - The Trip")
+![Ladakh](https://github.com/adharshgec/ladakh/blob/master/LADAKH.png?raw=true "Ladakh - The Trip")
 
 ## The Necessities
 
