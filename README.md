@@ -115,7 +115,9 @@
 
 ## Route Maps
 
+<details><summary>Thrissur - Udaipur</summary>
 ![1](https://user-images.githubusercontent.com/53763633/62466236-82e8d400-b7ae-11e9-86b1-deedf1ce29b8.png "Thrissur - Udaipur")
+</details>
 
 ![2](https://user-images.githubusercontent.com/53763633/62466246-88deb500-b7ae-11e9-83a5-be38212839a0.png "Udaipur - Amritsar")
 
