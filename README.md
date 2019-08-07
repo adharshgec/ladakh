@@ -580,7 +580,11 @@ An epic ride featuring over 20 states in over 50 days.
 
 ## The Plan
 
-    To Do
+| Day  | Route                       | Timings  | Comments |
+|:----:|-----------------------------|----------|----------|
+| 1    | Thrissur - Bekal Fort - Goa |          |          |
+| 2    |                             |          |          |
+| 3    |                             |          |          |
 
 ## References and Guides
 [Gear Up](https://www.horizonsunlimited.com/gear-up)
