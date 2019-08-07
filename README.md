@@ -109,7 +109,7 @@
 - Photostat Copies of above all
 - 10 Passport Size Photos
 - Airtel Postpaid Sim Card
-- Important Numbers of 2 Person in Paper
+- Contact details of 2 guardians/Important person
 - Permits From Leh
 - Copy Of Permits
 
