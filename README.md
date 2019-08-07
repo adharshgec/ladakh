@@ -580,11 +580,38 @@ An epic ride featuring over 20 states in over 50 days.
 
 ## The Plan
 
-| Day  | Route                       | Timings  | Comments |
-|:----:|-----------------------------|----------|----------|
-| 1    | Thrissur - Bekal Fort - Goa |          |          |
-| 2    |                             |          |          |
-| 3    |                             |          |          |
+| Day  | Route                                  | Timings  | Comments |
+|:----:|:--------------------------------------:|----------|----------|
+| 1    | Thrissur - Bekal Fort - Goa            |          |          |
+|      | Goa - Pune                             |          |          |
+|      | Pune - Mumbai - Vadodara - Ahmedabad   |          |          |
+|      | Ahmedabad - Gujarat - Jaisalmer        |          |          |
+|      | Jaisalmer - Bikaner - Jodhpur          |          |          |
+|      | Jodhpur - Jaipur                       |          |          |
+|      | Jaipur - Agra - Delhi                  |          |          |
+|      | Delhi - Ludhiana - Amritsar            |          |          |
+|      | Amritsar - Dharamshala                 |          |          |
+|      | Dharamshala - Jammu                    |          |          |
+|      | Jammu - Srinagar                       |          |          |
+|      | Srinagar - Gulmarg - Kargil            |          |          |
+|      | Kargil - Zanskar - Leh                 |          |          |
+|      | Leh - Khardung La - Diskit             |          |          |
+|      | Diskit - Nubra Valley - Turtuk         |          |          |
+|      | Turtuk - Shyok - Pangong Tso           |          |          |
+|      | Pangong Tso - Upshi - Debring          |          |          |
+|      | Debring - Tso Moriri - Hanle - Debring |          |          |
+|      | Debring - Keylong                      |          |          |
+|      | Keylong - Manali                       |          |          |
+|      | Manali - Kasol - Mandi - Shimla        |          |          |
+|      | Shimla - Rishikesh                     |          |          |
+|      | Rishikesh - Nainital                   |          |          |
+|      | Nainital - Lucknow                     |          |          |
+|      | Lucknow - Varanasi                     |          |          |
+|      | Varanasi - Chattisgarh                 |          |          |
+|      | Chattisgarh - Vishakapatanam           |          |          |
+|      | Vishakapatanam - Chennai               |          |          |
+|      | Chennai - Madurai                      |          |          |
+|      | Madurai - Thrissur                     |          |          |
 
 ## References and Guides
 [Gear Up](https://www.horizonsunlimited.com/gear-up)
