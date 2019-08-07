@@ -115,19 +115,59 @@
 
 ## Route Maps
 
-<details><summary>Thrissur - Udaipur</summary>
+<details>
+    <summary>Thrissur - Udaipur</summary>
+    <p>
+
 ![1](https://user-images.githubusercontent.com/53763633/62466236-82e8d400-b7ae-11e9-86b1-deedf1ce29b8.png "Thrissur - Udaipur")
+
+   </p>
 </details>
+
+<details>
+    <summary>Udaipur - Amritsar</summary>
+    <p>
 
 ![2](https://user-images.githubusercontent.com/53763633/62466246-88deb500-b7ae-11e9-83a5-be38212839a0.png "Udaipur - Amritsar")
 
+   </p>
+</details>
+
+<details>
+    <summary>Amritsar - Turtuk</summary>
+    <p>
+
 ![3](https://user-images.githubusercontent.com/53763633/62466248-88deb500-b7ae-11e9-91d4-2a40a51af2f6.png "Amritsar - Turtuk")
+
+   </p>
+</details>
+
+<details>
+    <summary>Turtuk - Shimla</summary>
+    <p>
 
 ![4](https://user-images.githubusercontent.com/53763633/62466250-89774b80-b7ae-11e9-8fc3-1e30deae86d4.png "Turtuk - Shimla")
 
+   </p>
+</details>
+
+<details>
+    <summary>Shimla - Puducherry</summary>
+    <p>
+
 ![5](https://user-images.githubusercontent.com/53763633/62466251-89774b80-b7ae-11e9-92fa-2c90412bbb33.png "Shimla - Puducherry")
 
+   </p>
+</details>
+
+<details>
+    <summary>Puducherry - Thrissur</summary>
+    <p>
+
 ![6](https://user-images.githubusercontent.com/53763633/62466252-89774b80-b7ae-11e9-8ae3-179bd21e25fd.png "Puducherry - Thrissur")
+
+   </p>
+</details>
 
 ## Attractions
 
