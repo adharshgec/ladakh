@@ -581,7 +581,7 @@ An epic ride featuring over 20 states in over 50 days.
 ## The Plan
 
 | Day  | Route                                  | Timings  | Comments |
-|:----:|:--------------------------------------:|----------|----------|
+|:----:|----------------------------------------|----------|----------|
 | 1    | Thrissur - Bekal Fort - Goa            |          |          |
 |      | Goa - Pune                             |          |          |
 |      | Pune - Mumbai - Vadodara - Ahmedabad   |          |          |
