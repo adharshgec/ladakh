@@ -1,5 +1,7 @@
 # Ladakh - The Trip
 
+An epic ride featuring over 20 states in over 50 days.
+
 ![Ladakh](https://github.com/adharshgec/ladakh/blob/master/LADAKH.png?raw=true "Ladakh - The Trip")
 
 ## The Necessities
