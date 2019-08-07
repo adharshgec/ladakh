@@ -29,28 +29,27 @@
 - Sunscreen
 - Face Wash
 - UV Sunglasses
-- Shoes/Boots - **Done**
+- Shoes/Boots
 - Umbrella
-- Snickers
-- Dry Fruits
-- Water Bottles
 - Knife
 - First Aid Kit
-- Medicines
 - Paper Map
-- Book and Pen - **Done**
-- Toothpaste - **Done**
-- Brush - **Done**
-- Soap - **Done**
-- Spray - **Done**
+- Book and Pen
+- Brush
 
-### Medicines
+### Medicines & Consumables
 
 - Diamox Tablets
 - Headache Meds
 - Vomitting Meds
 - Diarrea Meds
 - Balm
+- Snickers
+- Dry Fruits
+- Water Bottles
+- Toothpaste
+- Soap
+- Spray
 
 ### Motorcycle Mods
 
@@ -62,7 +61,7 @@
 - Fork Slider
 - Engine Bash Plate
 - Aux Lights
-- Blinker/Hazard - **Done**
+- Blinker/Hazard
 
 ### Parts and Spares
 
@@ -83,11 +82,11 @@
 
 ### Gadgets
 
-- GoPro - **Done**
+- GoPro
 - GoPro Lenses/Filters
 - GoPro Batteries
 - GoPro Waterproof Casing
-- 2x Mobiles
+- 2x Mobilephones
 - DSLR
 - Tripod
 - Headset
@@ -95,29 +94,26 @@
 - SD Cards
 - Hard Disk
 - Power Banks
-- Extension Cable - **Done**
+- Extension Cable
 - Multipin Power Socket
 - Flashlight
 
 ### Documents and other Necessities
 
-- Duplicate Motorcycle Key - **Done**
-- Original RC - **Done**
-- Insurance - **Done**
-- Pollution Certificate - **Done**
-- Original License - **Done**
-- Original Aadhar - **Done**
-- Photostat Copies of Above all
-- 10 Passport Size Photos - **Done**
+- Duplicate Motorcycle Key
+- Original RC
+- Insurance
+- Pollution Certificate
+- Original License
+- Original Aadhar
+- Photostat Copies of above all
+- 10 Passport Size Photos
 - Airtel Postpaid Sim Card
-- Important No: of 2 Person in Paper
+- Important Numbers of 2 Person in Paper
 - Permits From Leh
 - Copy Of Permits
 
-
-
 ## Route Maps
-
 
 ![1](https://user-images.githubusercontent.com/53763633/62466236-82e8d400-b7ae-11e9-86b1-deedf1ce29b8.png)
 
@@ -131,10 +127,7 @@
 
 ![6](https://user-images.githubusercontent.com/53763633/62466252-89774b80-b7ae-11e9-8ae3-179bd21e25fd.png)
 
-
-
 ## Attractions
-
 
 ![1 Goa](https://user-images.githubusercontent.com/53763633/62543511-a594ee80-b87b-11e9-9185-446520ddca21.png)
 ![1 5 Mahabaleshwar](https://user-images.githubusercontent.com/53763633/62543449-9b72f000-b87b-11e9-9132-ef82c4ae8a32.png)
@@ -181,8 +174,6 @@
 ![40 Pondichery](https://user-images.githubusercontent.com/53763633/62543509-a594ee80-b87b-11e9-8919-dfb07cabac5e.png)
 ![41 Dhanushkodi](https://user-images.githubusercontent.com/53763633/62545907-31107e80-b880-11e9-8311-94e0db3adbda.png)
 ![42 Madurai](https://user-images.githubusercontent.com/53763633/62545963-4685a880-b880-11e9-8517-72fe0c3f93ad.png)
-
-
 
 ## The Plan
 
