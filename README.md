@@ -37,7 +37,7 @@ An epic ride featuring over 20 states in over 50 days.
 - First Aid Kit
 - Paper Map
 - Book and Pen
-- Brush
+- Toothbrush
 
 ### Medicines & Consumables
 
