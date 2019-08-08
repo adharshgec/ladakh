@@ -614,6 +614,7 @@ An epic ride featuring over 20 states in over 50 days.
 |      | Madurai - Thrissur                     |          |          |
 
 ## References and Guides
+
 [Gear Up](https://www.horizonsunlimited.com/gear-up)
 
 ## About Us
